@@ -4,7 +4,6 @@
 }
 body{
     background-image: url(images/blue.jpg);
-    text-align: center;
     background-size: 25%;
     background-color: #42f4e2;
     color: black;
@@ -74,9 +73,6 @@ table{
     border-color: blue;
 }
 
-#tab{
-    text-align: center;
-}
 
 table {
     border-collapse: collapse;
